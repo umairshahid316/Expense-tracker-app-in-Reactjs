@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Expense-tracker-app-in-Reactjs/static/css/main.d9ca3109.chunk.css",
+    "main.js": "/Expense-tracker-app-in-Reactjs/static/js/main.ed34c0d1.chunk.js",
+    "main.js.map": "/Expense-tracker-app-in-Reactjs/static/js/main.ed34c0d1.chunk.js.map",
+    "runtime-main.js": "/Expense-tracker-app-in-Reactjs/static/js/runtime-main.77490fff.js",
+    "runtime-main.js.map": "/Expense-tracker-app-in-Reactjs/static/js/runtime-main.77490fff.js.map",
+    "static/js/2.87902a96.chunk.js": "/Expense-tracker-app-in-Reactjs/static/js/2.87902a96.chunk.js",
+    "static/js/2.87902a96.chunk.js.map": "/Expense-tracker-app-in-Reactjs/static/js/2.87902a96.chunk.js.map",
+    "index.html": "/Expense-tracker-app-in-Reactjs/index.html",
+    "precache-manifest.443627dc4b43a900c60436e8c9a8340d.js": "/Expense-tracker-app-in-Reactjs/precache-manifest.443627dc4b43a900c60436e8c9a8340d.js",
+    "service-worker.js": "/Expense-tracker-app-in-Reactjs/service-worker.js",
+    "static/css/main.d9ca3109.chunk.css.map": "/Expense-tracker-app-in-Reactjs/static/css/main.d9ca3109.chunk.css.map",
+    "static/js/2.87902a96.chunk.js.LICENSE.txt": "/Expense-tracker-app-in-Reactjs/static/js/2.87902a96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77490fff.js",
+    "static/js/2.87902a96.chunk.js",
+    "static/css/main.d9ca3109.chunk.css",
+    "static/js/main.ed34c0d1.chunk.js"
+  ]
+}
